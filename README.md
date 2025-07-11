@@ -3,6 +3,9 @@ An intelligent email assistant built with n8n and Gmail API, enabling automated 
 
 
 **#Description of content**
+
+
+
 This file contains the full JSON workflow encoded in JS, designed to run in n8n. It includes:
 
 Trigger: Watches for new Gmail messages using the Gmail node
